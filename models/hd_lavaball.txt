@@ -1,0 +1,15 @@
+# HD Lava Ball
+
+ball hidden
+material lavaball game /Game/Art/Materials/Masters/MI_LavaBall_LethTrial_Environment
+set lavaball "CrackThreshold" 0.49908078
+set lavaball "CrackSoftness" 0.83899999
+set lavaball "TextureSize" 122.20209
+set lavaball "EmissiveStrength" 50
+set lavaball "CrustBrightness" 0.2
+set lavaball "CrustRoughness" 0
+set lavaball "FlowSpeed" 32.720581
+set lavaball "PulseSpeed" 13.345586
+set lavaball "LavaHighlightColor" #FF7611
+
+sphere lavaball r=49.099998

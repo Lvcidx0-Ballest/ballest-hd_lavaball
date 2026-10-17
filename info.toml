@@ -1,0 +1,11 @@
+[meta]
+name = "HD Lava Ball"
+version = "0.1.0"
+author = "Lvcid"
+description = "A better lava ball with its own crack, flow and pulse values. Customizable in txt file."
+min_host = "0.27.0"
+dependencies = ["cosmetic-kit"]
+
+[script]
+files = ["main.as"]
+assets = ["preview.png", "models/*.txt"]
