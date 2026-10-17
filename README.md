@@ -1,5 +1,7 @@
 # HD Lava Ball
 
+![HD Lava Ball](.github/banner.png)
+
 A lava ball for Ballest of Them All, made with the game's own lava
 material and its own crack, flow and pulse values. Needs the Ballest plugin manager (host 0.27.0 or newer) and
 [Cosmetic Kit](https://github.com/AnythingGoes-ballest/ballest-cosmetic-kit).
